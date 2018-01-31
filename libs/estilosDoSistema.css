@@ -1,0 +1,20 @@
+.titulo01 {
+	margin-top: -30px;
+	text-align: center;
+}
+
+.titulo04 {
+	margin-top: 15px;
+}
+
+table, tr, tr01 {
+	background-color: #b3d9ff;
+}
+
+input, button {
+	width: 80px;
+}
+
+.alinhaParaEsquerda {
+	text-align: left;
+}
